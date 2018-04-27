@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: BetterPartyFrames
+## Author: Banksy
+## Version: 1.0
+
+core.lua
