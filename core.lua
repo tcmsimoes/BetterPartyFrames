@@ -1,8 +1,9 @@
-local frame = CreateFrame("Frame")
-frame:RegisterEvent("PLAYER_ENTERING_WORLD");
-frame:SetScript("OnEvent", function(self, event, ...)
-    if (event == 'PLAYER_ENTERING_WORLD') then
+local myFrame = CreateFrame("MyFrame")
+myFrame:RegisterEvent("PLAYER_ENTERING_WORLD")
+
+myFrame:SetScript("OnEvent", function(self, event, ...)
+    if event == 'PLAYER_ENTERING_WORLD' then
         PartyMemberFrame1:ClearAllPoints()
-        PartyMemberFrame1:SetPoint("LEFT", 200, 200)
+        PartyMemberFrame1:SetPoint("LEFT", 325, 150)
     end
 end)

@@ -1,2 +1,2 @@
 # BetterPartyFrames
-WoW plugin to move the default Party Frames
+World of Warcraft plugin to reposition the default party frames
