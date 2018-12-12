@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 81000
 ## Title: BetterPartyFrames
 ## Author: Banksy
 ## Version: 1.0
