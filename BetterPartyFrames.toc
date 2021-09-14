@@ -1,6 +1,5 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: BetterPartyFrames
 ## Author: Banksy
-## Version: 1.0
 
 core.lua
